@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Player id="1">
+		<name>222</name>
+		<hp>100</hp>
+	</Player>
+	<Player id="2">
+		<name>333</name>
+		<hp>200</hp>
+	</Player>
+	<Player id="3">
+		<name>444</name>
+		<hp>300</hp>
+	</Player>
+	<Player id="4">
+		<name>555</name>
+		<hp>300</hp>
+	</Player>
+	<Player id="5">
+		<name>我勒个X</name>
+		<hp>400</hp>
+	</Player>
+	<Player id="6">
+		<name>我勒个O</name>
+		<hp>400</hp>
+	</Player>
+	<Player id="7">
+		<name>敢没有名字吗</name>
+		<hp>500</hp>
+	</Player>
+	<Player id="8">
+		<name>最后一个</name>
+		<hp>600</hp>
+	</Player>
+</Player>
